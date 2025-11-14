@@ -55,3 +55,9 @@
 <li>Get notified → Email + desktop notification</li>
 <li>Close app → Queue preserved for later</li>
 <li>Reopen → Continue where you left off!</li>
+
+<img src="media/images/AERenderUI01.png">
+<br>
+<br>
+<br>
+<img src="media/images/AERenderUI01.png">
